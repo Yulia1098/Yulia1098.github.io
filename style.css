@@ -1,0 +1,24 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  min-width: 320px;
+  min-height: 668px;
+  position: relative;
+  overflow-x: hidden;
+  background-image: url(1242.jpg);
+  background-position: top center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+#div1 {
+    font-family: Verdana, sans-serif;
+    font-size: 160%;
+    text-align: center;
+}
+#h_1 {
+    text-decoration-line: underline overline;
+    font-style: italic;
+    text-align: center;
+    font-size: 450%;
+}
